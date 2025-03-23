@@ -1,279 +1,399 @@
-# <div align="center">👨‍💻 Welcome to My Digital Workshop 🚀</div>
-
 <div align="center">
   
-![Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/header-banner.png)
+# `{ Dev_Alchemist }`
+
+[![Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/header-banner.png)](https://yourportfolio.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 </div>
 
-<div align="center">
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</div>
-
-<br/>
-
-## 💡 Interactive Dashboard
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true" />
-</div>
-
-## ⚡ Tech Ecosystem
-
+<!-- GITHUB STATS SECTION -->
 <div align="center">
   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=60D9FA&icon_color=60D9FA&text_color=c9d1d9&hide=contribs,prs" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=60D9FA&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top Languages" height="170"/>
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&row=1&column=7&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<!-- TECH STACK SECTION -->
+<div align="center">
+
+## `< Tech Stack />`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Currently Learning
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+</div>
+
+<!-- TECH VISUALIZATION SECTION -->
+<div align="center">
+
 ```mermaid
-mindmap
-  root((My Tech Universe))
-    Frontend
-      React
-      Vue.js
-      Next.js
-      JavaScript/TypeScript
-      Tailwind CSS
-    Backend
-      Node.js
-      Express
-      Django
-      Laravel
-      GraphQL
-    Data Science
-      Python
-      TensorFlow
-      PyTorch
-      Data Visualization
-      ML Algorithms
-    DevOps
-      Docker
-      Kubernetes
-      CI/CD
-      AWS
-      Azure
+graph TD
+    subgraph PrimaryTools["Primary Technology Ecosystem"]
+        A1(Python) --> B1(Data Analysis)
+        A1 --> B2(Automation)
+        A1 --> B3(Backend)
+        
+        A2(C++) --> B4(System Programming)
+        A2 --> B5(Performance Critical)
+        
+        A3(JavaScript) --> B6(Frontend)
+        A3 --> B7(API Integration)
+        
+        A4(Firebase) --> B8(Real-time DB)
+        A4 --> B9(Authentication)
+        A4 --> B10(Cloud Functions)
+        
+        A5(MySQL) --> B11(Relational Data)
+        A5 --> B12(Data Storage)
+    end
+    
+    subgraph LearningPath["Learning Journey"]
+        C1(Flutter) --> D1(Mobile Apps)
+        C2(XAML) --> D2(UI Design)
+        C3(C#) --> D3(.NET Development)
+    end
+    
+    style PrimaryTools fill:#0D1117,stroke:#60D9FA,color:white
+    style LearningPath fill:#0D1117,stroke:#60D9FA,color:white
+    style A1 fill:#3776AB,color:white
+    style A2 fill:#00599C,color:white
+    style A3 fill:#F7DF1E,color:black
+    style A4 fill:#FFCA28,color:black
+    style A5 fill:#4479A1,color:white
+    style C1 fill:#02569B,color:white
+    style C2 fill:#0C54C2,color:white
+    style C3 fill:#239120,color:white
 ```
 
 </div>
 
-## 🌟 Skill Constellations
-
+<!-- CODING METRICS SECTION -->
 <div align="center">
 
-| **Category** | **Skills** | **Experience** |
-|:------------:|:----------:|:--------------:|
-| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> | ⭐⭐⭐⭐⭐ |
-| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> | ⭐⭐⭐⭐ |
-| **Database** | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> | ⭐⭐⭐⭐ |
-| **AI/ML** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> | ⭐⭐⭐ |
-| **DevOps** | <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> | ⭐⭐⭐ |
+## `$ Coding Metrics`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph">
+
+<!-- Placeholder for WakaTime stats - replace with your own WakaTime embed -->
+<!--START_SECTION:waka-->
+```text
+Python       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.25%
+JavaScript   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.12%
+C++          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.34%
+HTML/CSS     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀    8.21%
+Other        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀    0.08%
+```
+<!--END_SECTION:waka-->
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/coding-stats-light.svg" width="400" alt="Coding Stats Light">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/contribution-graph.svg" width="400" alt="Contribution Graph">
+</div>
 
 </div>
 
-## 🌐 Project Showcase
-
+<!-- PROJECT SHOWCASE SECTION -->
 <div align="center">
-  <a href="#project1">
-    <img src="https://dummyimage.com/400x200/3a0647/ffffff&text=AI+Image+Generator" alt="Project 1" width="400"/>
-  </a>
-  <a href="#project2">
-    <img src="https://dummyimage.com/400x200/0c4a6e/ffffff&text=E-Commerce+Platform" alt="Project 2" width="400"/>
-  </a>
+
+## `[ Project Showcase ]`
+
 </div>
 
+<!-- PROJECT 1: STUDIFY -->
 <div align="center">
-  <a href="#project3">
-    <img src="https://dummyimage.com/400x200/134e4a/ffffff&text=Data+Visualization+Dashboard" alt="Project 3" width="400"/>
-  </a>
-  <a href="#project4">
-    <img src="https://dummyimage.com/400x200/854d0e/ffffff&text=IoT+Home+System" alt="Project 4" width="400"/>
-  </a>
+<table>
+<tr>
+<td width="60%">
+<h3>📚 Studify</h3>
+<p>A comprehensive student management platform that helps students organize their academic life in one place. Track assignments, manage quizzes, take notes, and maintain your schedule effortlessly.</p>
+
+<h4>Features</h4>
+<ul>
+<li>✨ User Authentication 🔐</li>
+<li>📝 Assignment Management</li>
+<li>📋 Quiz Tracking</li>
+<li>📔 Note Taking</li>
+<li>📅 Schedule Management</li>
+<li>⌚️ Deadline Reminder</li>
+</ul>
+
+<h4>Tech Stack</h4>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+<div>
+<a href="https://github.com/yourusername/studify" target="_blank">
+<img src="https://img.shields.io/badge/Code-GitHub-3A3A3A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+</a>
+<a href="https://studify-app.web.app" target="_blank">
+<img src="https://img.shields.io/badge/Live-Demo-5DADE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+</a>
+</div>
+</td>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/studify-showcase.png" alt="Studify Project Screenshot">
+</td>
+</tr>
+</table>
 </div>
 
-### Project Details
-
-<details>
-<summary id="project1"><b>🤖 AI Image Generator</b></summary>
-<br>
-  
-**Description:** A cutting-edge AI system that generates high-quality images from text prompts, utilizing advanced deep learning techniques and neural networks.
-
-**Tech Stack:** PyTorch, React, FastAPI, AWS
-
-**Features:**
-- Text-to-image generation with multiple style options
-- Unique innovation in controlling image aesthetics
-- High-performance backend with efficient GPU utilization
-- User gallery and sharing capabilities
-
-**Demo:** [Live Demo](https://yourdemo1.com)
-**Repo:** [GitHub Repository](https://github.com/yourusername/ai-image-generator)
-</details>
-
-<details>
-<summary id="project2"><b>🛒 E-Commerce Platform</b></summary>
-<br>
-  
-**Description:** A full-featured e-commerce platform with advanced recommendation system and real-time inventory management.
-
-**Tech Stack:** Next.js, Node.js, MongoDB, Redis, Stripe
-
-**Features:**
-- Personalized product recommendations
-- Real-time inventory and order processing
-- Advanced search with filters
-- Seamless checkout experience
-- Analytics dashboard for business insights
-
-**Demo:** [Live Demo](https://yourdemo2.com)
-**Repo:** [GitHub Repository](https://github.com/yourusername/e-commerce-platform)
-</details>
-
-<details>
-<summary id="project3"><b>📊 Data Visualization Dashboard</b></summary>
-<br>
-  
-**Description:** An interactive dashboard for visualizing complex datasets with real-time updates and customizable display options.
-
-**Tech Stack:** D3.js, React, Express, PostgreSQL
-
-**Features:**
-- Real-time data processing and visualization
-- Multiple chart types and visualization options
-- Data filtering and transformation tools
-- Responsive design for all devices
-- Export capabilities for reports
-
-**Demo:** [Live Demo](https://yourdemo3.com)
-**Repo:** [GitHub Repository](https://github.com/yourusername/data-viz-dashboard)
-</details>
-
-<details>
-<summary id="project4"><b>🏠 IoT Home System</b></summary>
-<br>
-  
-**Description:** A comprehensive IoT solution for smart home management, with energy optimization algorithms and security features.
-
-**Tech Stack:** Python, MQTT, React Native, TensorFlow
-
-**Features:**
-- Centralized control of smart home devices
-- Energy usage optimization
-- Anomaly detection for security
-- Voice command integration
-- Mobile app with intuitive UI
-
-**Demo:** [Live Demo](https://yourdemo4.com)
-**Repo:** [GitHub Repository](https://github.com/yourusername/iot-home-system)
-</details>
-
-## 📈 Coding Activity
-
+<!-- PROJECT 2: WORDS UNSPOKEN -->
 <div align="center">
-  
-  ```
-  ⚡ Weekly development breakdown
-  -------------------------
-  JavaScript   9 hrs 45 mins   ████████████░░░░░░░   56.33%
-  Python       4 hrs 12 mins   █████░░░░░░░░░░░░░░   24.31%
-  React        2 hrs 30 mins   ███░░░░░░░░░░░░░░░░   14.46%
-  CSS          0 hrs 45 mins   █░░░░░░░░░░░░░░░░░░   4.33%
-  Other        0 hrs 05 mins   ░░░░░░░░░░░░░░░░░░░   0.57%
-  ```
-  
+<table>
+<tr>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/wordsunspoken-showcase.png" alt="WordsUnspoken Project Screenshot">
+</td>
+<td width="60%">
+<h3>✉️ WordsUnspoken</h3>
+<p>An anonymous letter-sharing platform where users can express themselves freely through letters, create conversation chains, and share moments through images. The platform emphasizes privacy while fostering meaningful connections through written expression.</p>
+
+<h4>Features</h4>
+<ul>
+<li>📝 Anonymous Letter Creation</li>
+<li>📖 Letter Reading & Discovery</li>
+<li>🔄 Letter Chains & Conversations</li>
+<li>🖼️ Media Support (images up to 500KB)</li>
+<li>⏰ Scheduled Posting</li>
+<li>🎨 Emotion-based color coding</li>
+</ul>
+
+<h4>Tech Stack</h4>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+<div>
+<a href="https://github.com/yourusername/wordsunspoken" target="_blank">
+<img src="https://img.shields.io/badge/Code-GitHub-3A3A3A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+</a>
+<a href="https://wordsunspoken.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Live-Demo-5DADE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+</a>
+</div>
+</td>
+</tr>
+</table>
 </div>
 
-## 🎓 Learning Journey
-
+<!-- ARCHITECTURE DIAGRAMS -->
 <div align="center">
-<img src="https://github.com/yourusername/yourusername/blob/main/assets/learning-journey.svg" width="800" alt="My Learning Journey">
+
+## `// Project Architectures`
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/studify-architecture.svg" alt="Studify Architecture">
+<p align="center"><b>Studify Architecture</b></p>
+</td>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/wordsunspoken-architecture.svg" alt="WordsUnspoken Architecture">
+<p align="center"><b>WordsUnspoken Architecture</b></p>
+</td>
+</tr>
+</table>
+
 </div>
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Architectures for AI Applications](https://yourblog.com/scalable-ai-architectures)
-- [The Future of React: What's Coming in 2025](https://yourblog.com/future-of-react-2025)
-- [Machine Learning for Beginners: A Practical Guide](https://yourblog.com/ml-for-beginners)
-- [Advanced CSS Techniques You Should Know](https://yourblog.com/advanced-css-techniques)
-<!-- BLOG-POST-LIST:END -->
-
-## 🏆 Achievements & Certifications
-
+<!-- TECHNOLOGIES METRICS -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Google-Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/TensorFlow-Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Hackerrank-5_Star_Coder-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"/>
-      </td>
-    </tr>
-  </table>
+
+## `/* Development Proficiency */`
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/skill-radar-chart.svg" width="100%" alt="Skills Radar Chart">
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/language-pie-chart.svg" width="100%" alt="Language Usage Pie Chart">
+  </div>
 </div>
 
-## 🔄 Current Status
-
-<div align="center">
-  
 ```javascript
-const currentStatus = {
-  learning: ["WebAssembly", "Quantum Computing Basics", "Advanced 3D Visualization"],
-  reading: ["Clean Architecture by Robert C. Martin", "Deep Learning by Ian Goodfellow"],
-  workingOn: ["Open Source Contributions", "Personal AI Assistant", "Advanced Data Structures Course"],
-  challenge: "Building a project using a new technology every month"
+// My Development Philosophy
+const devPhilosophy = {
+  architecture: ["Clean Code", "SOLID Principles", "Design Patterns"],
+  approach: ["User-Centered Design", "TDD When Appropriate", "Continuous Learning"],
+  values: ["Simplicity", "Performance", "Accessibility", "Maintainability"],
+  currentFocus: ["Expanding Frontend Skills", "Improving Database Design", "Learning Mobile Development"]
 };
 ```
 
 </div>
 
-## 🔮 GitHub Skyline
-
+<!-- LATEST CONTENT SECTION -->
 <div align="center">
-  <a href="https://skyline.github.com/yourusername/2024">
-    <img src="https://github.com/yourusername/yourusername/blob/main/assets/github-skyline.png" width="600" alt="GitHub Skyline"/>
-  </a>
-  <br/>
-  <i>My GitHub Contributions Skyline for 2024</i>
+
+## `# Latest Content`
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%">
+<h3>📝 Latest Blog Posts</h3>
+
+<!-- BLOG-POST-LIST:START -->
+- [**Creating Responsive Layouts with Modern CSS**](https://yourblog.com/responsive-layouts)
+- [**Firebase Authentication: Best Practices**](https://yourblog.com/firebase-auth-best-practices)
+- [**Optimizing Database Queries in MySQL**](https://yourblog.com/mysql-query-optimization)
+- [**Getting Started with C++ in 2025**](https://yourblog.com/cpp-2025-guide)
+<!-- BLOG-POST-LIST:END -->
+
+</td>
+<td width="50%">
+<h3>📺 Latest Videos</h3>
+
+<!-- YOUTUBE-LIST:START -->
+- [**Building a Student Management App**](https://youtube.com/yourusername)
+- [**Python Data Structures: Deep Dive**](https://youtube.com/yourusername)
+- [**Firebase Real-time Database Tutorial**](https://youtube.com/yourusername)
+- [**Web Development: From Beginner to Pro**](https://youtube.com/yourusername)
+<!-- YOUTUBE-LIST:END -->
+
+</td>
+</tr>
+</table>
+
 </div>
 
-## 🤝 Let's Connect
-
+<!-- ACHIEVEMENTS & LEARNING SECTION -->
 <div align="center">
-  <p>I'm always open to interesting conversations, collaboration opportunities, and new projects!</p>
+
+## `@Learning & Achievements`
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://img.shields.io/badge/Python-Certified_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Certified"/>
+  <img src="https://img.shields.io/badge/Firebase-Certified_Developer-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Certified"/>
+  <img src="https://img.shields.io/badge/JavaScript-Advanced_Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Advanced"/>
+  <img src="https://img.shields.io/badge/Hackerrank-5_Star_Coder-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"/>
+</div>
+
+<br>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%">
+
+```python
+# Current Learning Path
+learning_roadmap = {
+    "current_focus": [
+        "Flutter for cross-platform apps",
+        "Advanced C++ techniques",
+        "UI/UX design principles"
+    ],
+    "upcoming": [
+        "GraphQL API development",
+        "Machine Learning fundamentals",
+        "Cloud architecture patterns"
+    ],
+    "resources": [
+        "Frontend Masters",
+        "Coursera Specializations",
+        "GitHub open-source contributions",
+        "Tech conference workshops"
+    ]
+}
+```
+
+</td>
+<td width="40%">
+
+### 📚 Currently Reading
+
+- **Clean Code** by Robert C. Martin
+- **Designing Data-Intensive Applications** by Martin Kleppmann
+- **Flutter in Action** by Eric Windmill
+- **C++ High Performance** by Björn Andrist
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- GITHUB CONTRIBUTION SKYLINE -->
+<div align="center">
+
+## `::GitHub Skyline::`
+
+<a href="https://skyline.github.com/yourusername/2024">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/github-skyline-2024.png" width="700" alt="GitHub Skyline 2024">
+</a>
+
+</div>
+
+<!-- CONTACT SECTION -->
+<div align="center">
+
+## `>>> Connect With Me`
+
+<p>Always open to interesting conversations, collaboration opportunities, and new projects!</p>
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-Chat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Chat">
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-Message-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Message">
+  </a>
   <a href="https://calendly.com/yourusername/30min">
-    <img src="https://img.shields.io/badge/Schedule_a_Chat-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Chat"/>
+    <img src="https://img.shields.io/badge/Schedule-Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Meeting">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Send-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email">
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=60D9FA&style=flat" alt="Profile views">
+
 </div>
+
+<div align="center">
 
 ---
 
-<div align="center">
-  <sub>⚡ Built with creativity and code by yours truly ⚡</sub>
+<sub>⚡ Crafted with code and creativity ⚡</sub>
+
 </div>
+
+<!-- HIDDEN SECTION FOR UPDATING GITHUB METRICS -->
+<!--
+### How to update the stats automatically:
+
+1. Set up GitHub Actions for profile README stats:
+   - Add WakaTime GitHub Action for coding stats
+   - Set up GitHub Readme Stats Action
+   - Configure Blog Post Workflow
+
+2. For architecture diagrams, update the SVG files in your assets folder.
+
+3. For GitHub Skyline, update the screenshot annually from skyline.github.com/yourusername/[year]
+-->
