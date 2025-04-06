@@ -58,7 +58,7 @@
 
 ## `::Contribution Snake::`
 
-![Snake Game](./snake.svg)
+<img src="https://gist.github.com.ru/jcouyang/6336168ecbbf4fbdc46e.svg?username=Najaf-Ali-Imran&width=400&height=60" />
 
 </div>
 
