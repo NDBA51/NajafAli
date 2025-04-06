@@ -60,10 +60,10 @@
 
 <img src="https://gist.github.com.ru/jcouyang/6336168ecbbf4fbdc46e.svg?username=Najaf-Ali-Imran&width=400&height=60" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="./snake.svg" />
-</picture>
+<source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
+<img src=".snake.svg" alt="GitHub Snake Game" />
+
+
 </div>
 
 
