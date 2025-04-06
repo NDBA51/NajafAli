@@ -29,67 +29,16 @@
 
 </div>
 
-<!-- TECH VISUALIZATION SECTION -->
-<div align="center">
 
-```mermaid
-graph TD
-    subgraph PrimaryTools["Primary Technology Ecosystem"]
-        A1(Python) --> B1(Data Analysis)
-        A1 --> B2(Automation)
-        A1 --> B3(Backend)
-        
-        A2(C++) --> B4(System Programming)
-        A2 --> B5(Performance Critical)
-        
-        A3(JavaScript) --> B6(Frontend)
-        A3 --> B7(API Integration)
-        
-        A4(Firebase) --> B8(Real-time DB)
-        A4 --> B9(Authentication)
-        A4 --> B10(Cloud Functions)
-        
-        A5(MySQL) --> B11(Relational Data)
-        A5 --> B12(Data Storage)
-    end
-    
-    subgraph LearningPath["Learning Journey"]
-        C1(Flutter) --> D1(Mobile Apps)
-        C2(XAML) --> D2(UI Design)
-        C3(C#) --> D3(.NET Development)
-    end
-    
-    style PrimaryTools fill:#0D1117,stroke:#60D9FA,color:white
-    style LearningPath fill:#0D1117,stroke:#60D9FA,color:white
-    style A1 fill:#3776AB,color:white
-    style A2 fill:#00599C,color:white
-    style A3 fill:#F7DF1E,color:black
-    style A4 fill:#FFCA28,color:black
-    style A5 fill:#4479A1,color:white
-    style C1 fill:#02569B,color:white
-    style C2 fill:#0C54C2,color:white
-    style C3 fill:#239120,color:white
-```
-
-</div>
 
 <!-- CODING METRICS SECTION -->
 <div align="center">
 
 ## `$ Coding Metrics`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Najaf-Ali-Imran&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph">
 
-<!-- Placeholder for WakaTime stats - replace with your own WakaTime embed -->
-<!--START_SECTION:waka-->
-```text
-Python       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.25%
-JavaScript   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.12%
-C++          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.34%
-HTML/CSS     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀    8.21%
-Other        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀    0.08%
-```
-<!--END_SECTION:waka-->
+
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/coding-stats-light.svg" width="400" alt="Coding Stats Light">
