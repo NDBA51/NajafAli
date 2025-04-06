@@ -14,9 +14,9 @@
 <!-- GITHUB STATS SECTION -->
 <div align="center">
   
-![](https://nirzak-streak-stats.vercel.app/?user=Najaf-Ali-Imran&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Najaf-Ali-Imran&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Najaf-Ali-Imran&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Najaf-Ali-Imran&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Najaf-Ali-Imran&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Najaf-Ali-Imran&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!-- TECH STACK SECTION -->
