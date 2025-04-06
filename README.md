@@ -58,7 +58,6 @@
 
 ## `::Contribution Snake::`
 
-<img src="https://gist.github.com.ru/jcouyang/6336168ecbbf4fbdc46e.svg?username=Najaf-Ali-Imran&width=400&height=60" />
 
 
 ![snake gif](https://github.com/Najaf-Ali-Imran/NajafAli/blob/output/github-snake-dark.svg)
