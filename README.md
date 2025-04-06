@@ -58,9 +58,7 @@
 
 ## `::Contribution Snake::`
 
-<a href="https://skyline.github.com/yourusername/2024">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/github-skyline-2024.png" width="700" alt="GitHub Skyline 2024">
-</a>
+![Snake Game](./snake.svg)
 
 </div>
 
