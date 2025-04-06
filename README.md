@@ -14,10 +14,9 @@
 <!-- GITHUB STATS SECTION -->
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=60D9FA&icon_color=60D9FA&text_color=c9d1d9&hide=contribs,prs" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=60D9FA&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top Languages" height="170"/>
+![](https://github-readme-stats.vercel.app/api?username=Najaf-Ali-Imran&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Najaf-Ali-Imran&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Najaf-Ali-Imran&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&row=1&column=7&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
