@@ -1,0 +1,48 @@
+name: Generate Snake Game from Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC (adjust if needed)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Check out the repository
+      - uses: actions/checkout@v2
+
+      # Step 2: Set up Ruby and install dependencies
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7'   # Adjust Ruby version if needed
+
+      - name: Install Dependencies
+        run: |
+          gem install bundler
+          if [ -f Gemfile ]; then bundle install; fi
+
+      # Step 3: Generate the contribution graph SVG using our Ruby script
+      - name: Generate Contribution Graph
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}  # Automatically uses your GitHub username
+        run: ruby generate_contribution_graph.rb > contribution_graph.svg
+
+      # Step 4: Generate the snake game image using the marketplace action from Platane
+      - name: Generate Snake Game
+        uses: Platane/snk@v3.3.0
+        with:
+          contribution_image: "./contribution_graph.svg"
+          snake_image: "./snake.svg"
+          # Optionally, you can pass additional parameters such as output format if needed:
+          # output: "gif"  # if you want a gif instead of svg
+
+      # Step 5: Commit and push the generated snake.svg back to the repository
+      - name: Commit Snake Game
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add ./snake.svg
+          git commit -m "Updated snake" || echo "No changes to commit"
+          git push
