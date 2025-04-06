@@ -30,4 +30,3 @@ jobs:
           git add snake.svg
           git commit -m "chore: update snake.svg"
           git push origin main
-
