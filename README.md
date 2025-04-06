@@ -14,8 +14,8 @@
 <!-- GITHUB STATS SECTION -->
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Najaf-Ali-Imran&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Najaf-Ali-Imran&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Najaf-Ali-Imran&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Najaf-Ali-Imran&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -58,7 +58,10 @@
 
 ## `::Contribution Snake::`
 
-![Snake Game](./snake.svg)
+<img src="https://gist.github.com.ru/jcouyang/6336168ecbbf4fbdc46e.svg?username=Najaf-Ali-Imran&width=400&height=60" />
+
+<img src="./snake.svg" alt="GitHub Snake Game" />
+
 
 </div>
 

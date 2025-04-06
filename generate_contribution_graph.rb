@@ -7,7 +7,11 @@ username = ENV['GITHUB_USERNAME'] || 'Najaf-Ali-Imran'
 url = "https://github.com/#{username}"
 
 document = Nokogiri::HTML(URI.open(url))
+<<<<<<< HEAD
 contrib_boxes = document.css('svg.js-calendar-graph-svg')[0]
+=======
+contrib_boxes = document.at_css('div.js-yearly-contributions svg')
+>>>>>>> 876590fa6b2677844297c3d4b0fc2870cff6daa2
 contrib_boxes['xmlns'] = "http://www.w3.org/2000/svg"
 
 # Optional: You can set width/height via environment variables or use defaults
