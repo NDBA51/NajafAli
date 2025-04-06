@@ -71,16 +71,3 @@
 
 </div>
 
-<!-- HIDDEN SECTION FOR UPDATING GITHUB METRICS -->
-<!--
-### How to update the stats automatically:
-
-1. Set up GitHub Actions for profile README stats:
-   - Add WakaTime GitHub Action for coding stats
-   - Set up GitHub Readme Stats Action
-   - Configure Blog Post Workflow
-
-2. For architecture diagrams, update the SVG files in your assets folder.
-
-3. For GitHub Skyline, update the screenshot annually from skyline.github.com/yourusername/[year]
--->
