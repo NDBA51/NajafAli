@@ -2,19 +2,19 @@
   
 # `Najaf Ali`
 
-[![Banner](https://raw.githubusercontent.com/Najaf-Ali-Imran/NajafAli/main/Assets/Banner.jpg)]
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najaf2fnacc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najaf-ali-07029a358)
+
 
 </div>
 
 <!-- GITHUB STATS SECTION -->
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA)](https://git.io/streak-stats)
+[![GitHub Streak]![](https://nirzak-streak-stats.vercel.app/?user=Najaf-Ali-Imran&theme=highcontrast&hide_border=false)<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=60D9FA&icon_color=60D9FA&text_color=c9d1d9&hide=contribs,prs" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=60D9FA&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top Languages" height="170"/>
