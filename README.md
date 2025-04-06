@@ -40,10 +40,6 @@
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/coding-stats-light.svg" width="400" alt="Coding Stats Light">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/contribution-graph.svg" width="400" alt="Contribution Graph">
-</div>
 
 </div>
 
@@ -51,17 +47,7 @@
 
 
 
-<!-- ACHIEVEMENTS & LEARNING SECTION -->
-<div align="center">
 
-## `@Learning & Achievements`
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://img.shields.io/badge/Python-Certified_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Certified"/>
-  <img src="https://img.shields.io/badge/Firebase-Certified_Developer-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Certified"/>
-  <img src="https://img.shields.io/badge/JavaScript-Advanced_Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Advanced"/>
-  <img src="https://img.shields.io/badge/Hackerrank-5_Star_Coder-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"/>
-</div>
 
 <br>
 
@@ -70,7 +56,7 @@
 <!-- GITHUB CONTRIBUTION SKYLINE -->
 <div align="center">
 
-## `::GitHub Skyline::`
+## `::Contribution Snake::`
 
 <a href="https://skyline.github.com/yourusername/2024">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/github-skyline-2024.png" width="700" alt="GitHub Skyline 2024">
