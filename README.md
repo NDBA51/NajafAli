@@ -2,7 +2,7 @@
   
 # `Najaf Ali`
 
-[![Banner](https://raw.githubusercontent.com/Najaf-Ali-Imran/Najaf-Ali-Imran/main/Assets/Banner.jpg)]
+[![Banner](https://raw.githubusercontent.com/Najaf-Ali-Imran/NajafAli/main/Assets/Banner.jpg)]
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
