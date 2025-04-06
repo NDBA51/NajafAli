@@ -20,7 +20,7 @@ jobs:
           palette:     github-dark
           color_snake: white
           outputs: |
-            ./snake.svg
+            ./snake-dark.svg?palette=github-dark
 
       - name: Commit and push changes
         env:
