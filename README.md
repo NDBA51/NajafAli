@@ -68,7 +68,6 @@
 
 ---
 
-<sub>⚡ Crafted with code and creativity ⚡</sub>
 
 </div>
 
