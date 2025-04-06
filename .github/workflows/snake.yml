@@ -17,6 +17,8 @@ jobs:
         uses: Platane/snk@v3.3.0
         with:
           github_user_name: Najaf-Ali-Imran
+          palette:     github-dark
+          color_snake: white
           outputs: |
             ./snake.svg
 
