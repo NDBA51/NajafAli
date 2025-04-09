@@ -40,14 +40,9 @@
 
 
 
-
-</div>
-
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Najaf-Ali-Imran&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=Najaf-Ali-Imran&color=blue" alt="Profile Views" />
 </div>
-
-
 
 
 
