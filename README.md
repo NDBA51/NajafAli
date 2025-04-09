@@ -42,6 +42,8 @@
 
 
 </div>
+![Profile Views](https://komarev.com/ghpvc/?username=Najaf-Ali-Imran&color=blue)
+
 
 
 
